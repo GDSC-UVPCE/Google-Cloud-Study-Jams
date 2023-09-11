@@ -3276,7 +3276,10 @@ function TableIndex() {
 
 
             <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
-                <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-start border border-yellow-300/30"><p className="text-center">-: Notice :-</p>No Message</div>
+                <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30"><p className="text-center">-: Jokes :-</p>
+                <p><span className="text-black">Someone :</span> How did you fall in poverty ? gamble or drugs ?</p>
+                <p><span className="text-black">Me :</span> I left an Ec2 Instance on... !🥲</p>
+                </div>
 
                 <div className="info flex mob:flex-col mob:justify-center mob:items-center mob:space-y-10 mob:p-5 justify-evenly space-x-3 mob:space-x-0">
                     <div className="eligibleforswag w-fit mob:w-full h-20 p-5 space-x-5 rounded-lg flex flex-row justify-evenly mob:justify-between items-center bg-green-50 shadow-lg shadow-green-300/30 border border-green-200">
