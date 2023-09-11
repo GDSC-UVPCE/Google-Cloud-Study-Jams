@@ -3276,7 +3276,7 @@ function TableIndex() {
 
 
             <div className="sec m-auto my-10 space-y-5 w-1/2 mob:w-full flex flex-col">
-                <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-start"><p className="text-center">-: Notice :-</p>No Message</div>
+                <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-start"><p className="text-center"></p>Why did the Google Cloud swag bag go to therapy? Because it just couldn't handle all the "storage issues" in its life – too many totes and not enough space! 😄</div>
 
                 <div className="info flex mob:flex-col mob:justify-center mob:items-center mob:space-y-5 mob:p-5 justify-evenly space-x-3 mob:space-x-0">
                     <div className="eligibleforswag w-fit mob:w-full h-20 p-5 space-x-5 rounded-lg flex flex-row justify-evenly mob:justify-between items-center bg-green-50 shadow-lg shadow-green-300/30">
