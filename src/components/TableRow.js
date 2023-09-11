@@ -12,7 +12,7 @@ function TableRow({ participant }) {
 
             <td className="Redemption_Status p-3 relative">
                 <div
-                    className={`w-fit m-auto rounded-3xl px-2 py-1 text-center ${participant["Redemption Status"] == "Yes"
+                    className={`w-fit m-auto rounded-3xl px-4 py-1 text-center ${participant["Redemption Status"] == "Yes"
                         ? "bg-green-200 text-green-600"
                         : "bg-yellow-200 text-yellow-600"
                         }`}
