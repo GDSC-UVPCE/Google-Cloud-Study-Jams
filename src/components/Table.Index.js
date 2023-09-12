@@ -284,7 +284,7 @@ function TableIndex() {
           "Institution": "U. V. Patel College of Engineering - Mehsana",
           "Enrolment Date & Time": "Sat Sep 02 2023 10:47:03 GMT+0530 (GMT+05:30)",
           "Enrolment Status": "All Good",
-          "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/2b49e37c-067c-40c3-8054-a61e4c49ed70",
+          "Google Cloud Skills Boost Profile URL": "https://www.clouds killsboost.google/public_profiles/2b49e37c-067c-40c3-8054-a61e4c49ed70",
           "# of Courses Completed": "4",
           "# of Skill Badges Completed": "4",
           "# of GenAI Game Completed": "1",
