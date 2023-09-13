@@ -16,7 +16,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Sureliya Venish Girishbhai",
@@ -29,7 +29,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Anshkumar Hitendrabhai",
@@ -42,7 +42,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vriddhi Jigar Shah",
@@ -55,7 +55,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Tirth Pareshkumar",
@@ -68,7 +68,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Shreya Patel",
@@ -81,7 +81,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Manthan Aniruddh Mehta",
@@ -94,7 +94,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "PARMAR ARYAN SATISHKUMAR",
@@ -107,7 +107,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Meha Nileshkumar Bhatt",
@@ -120,7 +120,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Sujal Jayeshbhai",
@@ -133,7 +133,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Soha Mohmedhusen Maknojia",
@@ -146,7 +146,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "NISARG PATEL",
@@ -159,7 +159,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Mesvaniya Ashish Sanjaybhai",
@@ -172,7 +172,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Preet Shah",
@@ -185,7 +185,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Yakshkumar Jitendrabhai",
@@ -198,7 +198,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Gill Gurpreet Kaur",
@@ -211,7 +211,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Mohit Assudani",
@@ -224,7 +224,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Makadiya Kaushal Jayeshkumar",
@@ -237,7 +237,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Krishna Yogeshkumar Joshi",
@@ -250,7 +250,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vedant Satishbhai pansuriya",
@@ -263,7 +263,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Sarthak Joshi",
@@ -276,7 +276,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Tirth Sureshbhai Panchal",
@@ -289,7 +289,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Pulkid Mewada",
@@ -302,7 +302,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Kushal Ravindrakumar Gupta",
@@ -315,7 +315,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "MODI BHAVY HARSHADKUMAR",
@@ -328,7 +328,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Parth Raval",
@@ -341,7 +341,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Rithvik Rao Juvvadi",
@@ -354,7 +354,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "HARSHPAL SINGH SOLANKI",
@@ -367,7 +367,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Gaurav Akabari",
@@ -380,7 +380,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Hill Soni",
@@ -393,7 +393,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Modi Krish Pareshkumar",
@@ -406,7 +406,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "ISHAN KUMRA",
@@ -419,7 +419,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Mahavir Manubhai",
@@ -432,7 +432,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Harsh Sunibhai Shah",
@@ -445,7 +445,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Khush Bharatbhai Patel",
@@ -458,7 +458,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel dhruv Vasantkumar",
@@ -471,7 +471,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Gandha Kalpesh Shailesh Bhai",
@@ -484,7 +484,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "4",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "Yes",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Viradiya Kashish Mukeshbhai",
@@ -497,7 +497,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "3",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Meet Nilesh Panchal",
@@ -510,7 +510,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "3",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Saurabh Boghani",
@@ -523,7 +523,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "1",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "PATEL JAY AJITKUMAR",
@@ -536,7 +536,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "1",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "SHAILESH KUMAR SINGH PARMAR",
@@ -549,7 +549,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "1",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "ARDESHNA PALAK",
@@ -562,7 +562,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "1",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Bansi Vachhani",
@@ -575,7 +575,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Dev brahmbhatt",
@@ -588,7 +588,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "PATEL VANSH KAUSHIKBHAI",
@@ -601,7 +601,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "RUCHI JITENDRA PATEL",
@@ -614,7 +614,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Vedant Bhaveshkumar",
@@ -627,7 +627,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Thakkar Neel Jayeshbhai",
@@ -640,7 +640,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Raj Vishnubhai Patel",
@@ -653,7 +653,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Jay Bhatt",
@@ -666,7 +666,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Akbarhusain Ambaliyasana",
@@ -679,7 +679,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Shivam Sharma",
@@ -692,7 +692,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Bhakti parsaniya",
@@ -705,7 +705,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Mahir Rawal",
@@ -718,7 +718,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Krishna Chitlangia",
@@ -731,7 +731,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Mufaddal Hakimuddin bhai Kheriwala",
@@ -744,7 +744,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Hemang bodana",
@@ -757,7 +757,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Rohan Hitendrabhai",
@@ -770,7 +770,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Jimilkumar Hitendrakumar",
@@ -783,7 +783,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Viraj Thaker",
@@ -796,7 +796,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Amit Goswami",
@@ -809,7 +809,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Reet Shah",
@@ -822,7 +822,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Kanishka Khandelwal",
@@ -835,7 +835,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Prajapati Ridham Pravinbhai",
@@ -848,7 +848,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Kowshik Chittineni",
@@ -861,7 +861,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Naina Kumari Singh",
@@ -874,7 +874,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Tirth Thakkar",
@@ -887,7 +887,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Jagya Vishal Ravi",
@@ -900,7 +900,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel honey bhavikkumar",
@@ -913,7 +913,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Hetvi Dedania",
@@ -926,7 +926,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Modi Priyansh Mehulkumar",
@@ -939,7 +939,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vaishnav Smit Jayantibhai",
@@ -952,7 +952,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Charvin Maheshbhai Khanpara",
@@ -965,7 +965,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Gandhi Dhruv Jitendrakumar",
@@ -978,7 +978,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Aryan Mathukiya",
@@ -991,7 +991,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Shah Jiya Chaitanya",
@@ -1004,7 +1004,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Javiya Shreya Jayeshbhai",
@@ -1017,7 +1017,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Jay Manojkumar Gandhi",
@@ -1030,7 +1030,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Khushi Nilesh Ganatra",
@@ -1043,7 +1043,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Dharmik Jayeshkumar",
@@ -1056,7 +1056,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Jeel Mungra",
@@ -1069,7 +1069,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Aman Yadav",
@@ -1082,7 +1082,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Marvin Narendrakumar Patel",
@@ -1095,7 +1095,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Dhruvin Mahendra Kachhadia",
@@ -1108,7 +1108,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "SENMA CHIRAGKUMAR SHAKARABHAI",
@@ -1121,7 +1121,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "PATEL BHAVYKUMAR KETANBHAI",
@@ -1134,7 +1134,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Dev Alpeshbhai Patel",
@@ -1147,7 +1147,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vachhani Rupin Rajeshbhai",
@@ -1160,7 +1160,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "PATEL SMIT ASHOKKUMAR",
@@ -1173,7 +1173,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Thakkar Nikhilkumar Rameshbhai",
@@ -1186,7 +1186,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Chirantan Bhardwaj",
@@ -1199,7 +1199,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "1",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vipul solnaki",
@@ -1212,7 +1212,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "PATEL KRISHA GIRISHKUMAR",
@@ -1225,7 +1225,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Prajapati Abhay Rajabhai",
@@ -1238,7 +1238,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Kansara Gaurav S",
@@ -1251,7 +1251,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "ADESHARA BRIJESH GAUTAMKUMAR",
@@ -1264,7 +1264,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patadiya Rutva Kunjalkumar",
@@ -1277,7 +1277,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Bratin Kundu",
@@ -1290,7 +1290,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel tirth rohitkumar",
@@ -1303,7 +1303,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Suthar Rutul Narayanbhai",
@@ -1316,7 +1316,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Rathod Yuvrajsinh Jaydipsinh",
@@ -1329,7 +1329,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Krish viroliya",
@@ -1342,7 +1342,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Dhruv Mitesh Mori",
@@ -1355,7 +1355,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Prajapati Ansh Hasmukhbhai",
@@ -1368,7 +1368,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Rajdeep Singh Chavda",
@@ -1381,7 +1381,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Yash Sakariya",
@@ -1394,7 +1394,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "MARADIYA DAKSH HITESHBHAI",
@@ -1407,7 +1407,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Ritika Lal",
@@ -1420,7 +1420,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Ashvini Gopalbhai Kushwaha",
@@ -1433,7 +1433,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Arpit Patoliya",
@@ -1446,7 +1446,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "RATHOD PRASHANT",
@@ -1459,7 +1459,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Yash Baravaliya",
@@ -1472,7 +1472,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Jaya Anand Thakrar",
@@ -1485,7 +1485,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Rajyaguru Prasad Mihirbhai",
@@ -1498,7 +1498,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vikas Lohar",
@@ -1511,7 +1511,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Gurcharan Angroia",
@@ -1524,7 +1524,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Shah Khushi Harshad kumar",
@@ -1537,7 +1537,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Diksha patel",
@@ -1550,7 +1550,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Chenadi kush kumar rao",
@@ -1563,7 +1563,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Solanki Naitri Indrajit",
@@ -1576,7 +1576,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "ARPAN DAS",
@@ -1589,7 +1589,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Gajera Dhruv Mukeshbhai",
@@ -1602,7 +1602,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Gor Kenil Ashvinbhai",
@@ -1615,7 +1615,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Kansara Krishnam Sanjaykumar",
@@ -1628,7 +1628,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vicky Kumar",
@@ -1641,7 +1641,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Sree Thanu Bhuvanesh G K",
@@ -1654,7 +1654,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vivek Gohel",
@@ -1667,7 +1667,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Saurav gupta",
@@ -1680,7 +1680,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Savani Rushi Kishanbhai",
@@ -1693,7 +1693,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Munjapara Bhakti Shaileshbhai",
@@ -1706,7 +1706,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Guru Tulsibhai Patel",
@@ -1719,7 +1719,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vedant A Patel",
@@ -1732,7 +1732,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Niraj Pattnayak",
@@ -1745,7 +1745,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Divyansu dodiya",
@@ -1758,7 +1758,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "HIMANSHU HARIBHAI PATEL",
@@ -1771,7 +1771,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "chirag gami",
@@ -1784,7 +1784,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Ratnik Marker",
@@ -1797,7 +1797,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Prabhat Sharma",
@@ -1810,7 +1810,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Dhruvil pragneshbhai kotiya",
@@ -1823,7 +1823,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vithalani Vishal Rajesh",
@@ -1836,7 +1836,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Hetsi Harshadkumar Patel",
@@ -1849,7 +1849,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Akash Parmar",
@@ -1862,7 +1862,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Rutvik Kiritbhai",
@@ -1875,7 +1875,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "mohit chaudhary",
@@ -1888,7 +1888,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "DHOBI RADHE DHARMESHBHAI",
@@ -1901,7 +1901,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Priyansh M Ashar",
@@ -1914,7 +1914,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Romil Patel",
@@ -1927,7 +1927,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Krishkumar Varunbhai",
@@ -1940,7 +1940,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Surani Harshil dineshbhai",
@@ -1953,7 +1953,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Rajkumar",
@@ -1966,7 +1966,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "PATEL JAY PRAVINBHAI",
@@ -1979,7 +1979,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Dave megha yashwantbhai",
@@ -1992,7 +1992,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Krish Raj Yadav",
@@ -2005,7 +2005,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Lakshya Manish Sharma",
@@ -2018,7 +2018,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Rehan Siddiqui",
@@ -2031,7 +2031,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Thamma.gnana bhuvan prasanth reddy",
@@ -2044,7 +2044,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Dave Parth AshishKumar",
@@ -2057,7 +2057,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Yash vasiyar",
@@ -2070,7 +2070,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Sanjana Rajput",
@@ -2083,7 +2083,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Seema vadhiya",
@@ -2096,7 +2096,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Haji Mo.Husen Sabir Ali",
@@ -2109,7 +2109,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Uday Maheshbhai",
@@ -2122,7 +2122,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Nigam d darji",
@@ -2135,7 +2135,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "DANADADIYA KEYUR RAJUBHAI",
@@ -2148,7 +2148,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Vraj Harshid Modi",
@@ -2161,7 +2161,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "patel hemank shaileshbhai",
@@ -2174,7 +2174,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Nandana Suresh Nangakeyil",
@@ -2187,7 +2187,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Rahevar Jayparthsinh Bhuvanrajsinh",
@@ -2200,7 +2200,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Dhyani Hiteshkumar Maradia",
@@ -2213,7 +2213,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Nandini Piyushkumar Bhavsar",
@@ -2226,7 +2226,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Roshan Kumar Singh",
@@ -2239,7 +2239,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Kuldeepsinh Jadeja",
@@ -2252,7 +2252,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Nakul Visavadia",
@@ -2265,7 +2265,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Nishi Kasat",
@@ -2278,7 +2278,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Nandinee Mahendrabhai Patel",
@@ -2291,7 +2291,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Patel Krupa Dilipbhai",
@@ -2304,7 +2304,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "PATEL AMAN AMBALAL",
@@ -2317,7 +2317,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "Nyasha Golani",
@@ -2330,7 +2330,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "Yes\r"
+        "Redemption Status": "Yes"
       },
       {
         "Student Name": "MAHI PATEL",
@@ -2343,7 +2343,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Krishil K Patel",
@@ -2356,7 +2356,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "1",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Swapnil Zalavadia",
@@ -2369,7 +2369,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Patel Ayushi Rajeshbhai",
@@ -2382,7 +2382,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "NAMIT JITENDRA JOSHI",
@@ -2395,7 +2395,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "DARSHAN SOLANKI",
@@ -2408,7 +2408,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Patel Sesha Rajendra",
@@ -2421,7 +2421,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Vrind Shah",
@@ -2434,7 +2434,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Smit Ashishkumar Modi",
@@ -2447,7 +2447,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Mihir Parmar",
@@ -2460,7 +2460,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "DESAI YASH MANISH",
@@ -2473,7 +2473,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Priyanshu Ashwinbhai Jethanandani",
@@ -2486,7 +2486,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Jaydip Babubhai Changani",
@@ -2499,7 +2499,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Dharmik Patel",
@@ -2512,7 +2512,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Ladava Vishal Haribhai",
@@ -2525,7 +2525,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Smit Bakaraniya",
@@ -2538,7 +2538,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Bhoomika solanki",
@@ -2551,7 +2551,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Varsani dharm rakeshbhai",
@@ -2564,7 +2564,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Debjyoti Maity",
@@ -2577,7 +2577,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "SONI ARYAN PRITESHBHAI",
@@ -2590,7 +2590,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "SAGAR SHAIVIN JIGNESH",
@@ -2603,7 +2603,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Barot manav pinkalkumar",
@@ -2616,7 +2616,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Dodiya Pruthvisinh D.",
@@ -2629,7 +2629,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "SUBHOJIT ROY",
@@ -2642,7 +2642,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Mendapara Vasu Jasminkumar",
@@ -2655,7 +2655,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Vora Dhwani Yagneshkumar",
@@ -2668,7 +2668,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Meet Bakaraniya",
@@ -2681,7 +2681,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Patel Fenil Dixitkumar",
@@ -2694,7 +2694,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Chauhan Parth Dineshkumar",
@@ -2707,7 +2707,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "ketan savankar",
@@ -2720,7 +2720,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Divyanshu Rai",
@@ -2733,7 +2733,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Jay Patel",
@@ -2746,7 +2746,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Dabhi Arif",
@@ -2759,7 +2759,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Mahommad Arif",
@@ -2772,7 +2772,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Avinash Anojkumar Jha",
@@ -2785,7 +2785,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "MEHULSINH MADHAVSANG CHAUHAN",
@@ -2798,7 +2798,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Harsh Patel",
@@ -2811,7 +2811,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Darshan narendrabhai ajudiya",
@@ -2824,7 +2824,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Shubham Soni",
@@ -2837,7 +2837,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "DHANANJAY JAMBUKIYA",
@@ -2850,7 +2850,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "priyanshu khanna",
@@ -2863,7 +2863,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Geet Prajapati",
@@ -2876,7 +2876,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "sk.mogalibasha",
@@ -2889,7 +2889,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Saumya Prajapati",
@@ -2902,7 +2902,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Janga Bharathsathyasai",
@@ -2915,7 +2915,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "GONDALIYA RIDHAM LALITBHAI",
@@ -2928,7 +2928,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Nandaniya Jeni Maheshbhai",
@@ -2941,7 +2941,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Md Fahmi Nawaz",
@@ -2954,7 +2954,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Patel Nikhilkumar dineshbhai",
@@ -2967,7 +2967,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Mansi Sanjay Aghera",
@@ -2980,7 +2980,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Hirpara Vrutik Rajeshbhai",
@@ -2993,7 +2993,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Prajapati om dilipkumar",
@@ -3006,7 +3006,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Manav Ramanbhai Patel",
@@ -3019,7 +3019,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Krish Patel",
@@ -3032,7 +3032,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Sangada Kartikkumar Devisingbhai",
@@ -3045,7 +3045,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Godhaniya Mihir",
@@ -3058,7 +3058,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Patel Ishankumar alpeshkumar",
@@ -3071,7 +3071,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "rajarshi mesavaniya",
@@ -3084,7 +3084,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Maharshi.M.Patel",
@@ -3097,7 +3097,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Yarramsetti P s n koteswararao",
@@ -3110,7 +3110,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Patel Ved Anilkumar",
@@ -3123,7 +3123,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "YADAV RADHESHYAM CHANDRAJEET",
@@ -3136,7 +3136,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "UTUKURI VENKATESH",
@@ -3149,7 +3149,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "pathik ketankumar patel",
@@ -3162,7 +3162,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Dobariya Smit Bhupatbhai",
@@ -3175,7 +3175,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Kakadiya krina Ashokbhai",
@@ -3188,7 +3188,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "BHANVADIYA AYUSH RAJESHBHAI",
@@ -3201,7 +3201,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Bapodara Vishvas Sanjaybhai",
@@ -3214,7 +3214,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Patel Parth Hemendrabhai",
@@ -3227,7 +3227,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No\r"
+        "Redemption Status": "No"
       },
       {
         "Student Name": "Hemant Kumar Singh",
@@ -3240,7 +3240,7 @@ function TableIndex() {
         "# of Skill Badges Completed": "0",
         "# of GenAI Game Completed": "0",
         "Total Completions of both Pathways": "No",
-        "Redemption Status\r": "No"
+        "Redemption Status": "No"
       }
     ]
     const [Participationdata, setParticipationdata] = useState([...data]);
