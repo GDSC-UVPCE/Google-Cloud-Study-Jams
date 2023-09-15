@@ -3242,13 +3242,10 @@ function TableIndex() {
       "Total Completions of both Pathways": "No",
       "Redemption Status": "No"
     }
-  ]
+  ];
   const [Participationdata, setParticipationdata] = useState([...data]);
   const [EligibleforSwags, setEligibleforSwags] = useState(0);
 
-  useEffect(() => {
-    calculateTotalEligibility();
-  }, [])
 
   const calculateTotalEligibility = () => {
     let total = 0;
@@ -3269,6 +3266,12 @@ function TableIndex() {
     // console.log(newArr);
     setParticipationdata(newArr);
   }
+
+
+  useEffect(() => {
+    calculateTotalEligibility();
+  }, [])
+
 
   return (
     <div className='w-full relative px-3'>
