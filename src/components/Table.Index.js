@@ -1,8 +1,7 @@
 "use client"
 import React, { useState, useEffect } from 'react'
 import TableBody from './TableBody'
-import dataArr from '../../public/data.json'
-
+import dataArr from '../../public/S25ZqPUBqi5JXZ.json'
 
 function TableIndex() {
   // const data = [
