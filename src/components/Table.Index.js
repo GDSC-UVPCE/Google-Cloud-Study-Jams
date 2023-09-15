@@ -3275,9 +3275,6 @@ function TableIndex() {
 
   return (
     <div className='w-full relative px-3'>
-
-
-
       <div className="sec m-auto my-10 space-y-8 w-1/2 mob:w-full flex flex-col">
         <div className="message bg-yellow-100 text-yellow-700 p-5 rounded-lg shadow-lg shadow-yellow-300/30 text-center border border-yellow-300/30"><p className="text-center">-: Today's News :-</p>
           <p>Engineers' Day is celebrated in India on 15th September  in memory of Sir M. Visvesvaraya, a renowned Indian engineer and statesman. This day acknowledges the significant impact engineers have on innovation, technology, and the advancement of infrastructure.</p>
