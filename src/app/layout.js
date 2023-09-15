@@ -1,5 +1,7 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
+import { Analytics } from '@vercel/analytics/react';
+
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -11,14 +13,14 @@ export const metadata = {
   keywords: ["gccp", "jams", "uvpce", "gdscuvpce"],
   robots: "index,follow",
 
-  "og:title": "GDSC UVPCE GCCP Leaderboard",
-  "og:image": "https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png",
-  "og:description": "This is the leaderboard for the GDSC UVPCE GCCP Jams.",
-  "twitter:card": "summary_large_image",
-  "twitter:title": "GDSC UVPCE GCCP Leaderboard",
-  "twitter:description": "This is the leaderboard for the GDSC UVPCE GCCP Jams.",
-  "twitter:image": "https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png",
-  "twitter:site": "@gdscuvpce"
+  // "og:title": "GDSC UVPCE GCCP Leaderboard",
+  // "og:image": "https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png",
+  // "og:description": "This is the leaderboard for the GDSC UVPCE GCCP Jams.",
+  // "twitter:card": "summary_large_image",
+  // "twitter:title": "GDSC UVPCE GCCP Leaderboard",
+  // "twitter:description": "This is the leaderboard for the GDSC UVPCE GCCP Jams.",
+  // "twitter:image": "https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png",
+  // "twitter:site": "@gdscuvpce"
   
    
 }
@@ -30,7 +32,10 @@ export default function RootLayout({ children }) {
       <head>
         
       </head>
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+            {children}
+           <Analytics />
+       </body>
     </html>
   )
 }
