@@ -8,7 +8,7 @@ export default function Home() {
       <Script src="https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.12.0/tsparticles.confetti.bundle.min.js" strategy="beforeInteractive"></Script>
       <Script id="blast_effect">
         {
-          `const end = Date.now() + 30 * 150;
+          `const end = Date.now() + 15 * 150;
 
           // Google colors
           const colors = ["#4285F4", "#0F9D58", "#F4B400", "#DB4437"];
