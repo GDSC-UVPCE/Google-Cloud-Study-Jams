@@ -21,21 +21,22 @@ export const metadata = {
   // "twitter:description": "This is the leaderboard for the GDSC UVPCE GCCP Jams.",
   // "twitter:image": "https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png",
   // "twitter:site": "@gdscuvpce"
-  
-   
+
+
 }
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <link rel="icon" href="/favicon.ico"/>
+      <link rel="icon" href="/favicon.ico" />
       <head>
         
       </head>
       <body className={inter.className}>
-            {children}
-           <Analytics />
-       </body>
+        {children}
+        <Analytics />
+        
+      </body>
     </html>
   )
 }
