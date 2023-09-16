@@ -7,47 +7,35 @@ export default function Home() {
     <>
       <Script src="https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.12.0/tsparticles.confetti.bundle.min.js" strategy="beforeInteractive"></Script>
       <Script id="blast_effect">
-        {`
-          const count = 200,
-  defaults = {
-    origin: { y: 0.7 },
-  };
+        {
+          `const end = Date.now() + 30 * 150;
 
-function fire(particleRatio, opts) {
-  confetti(
-    Object.assign({}, defaults, opts, {
-      particleCount: Math.floor(count * particleRatio),
-    })
-  );
-}
-
-fire(0.25, {
-  spread: 26,
-  startVelocity: 55,
-});
-
-fire(0.2, {
-  spread: 60,
-});
-
-fire(0.35, {
-  spread: 100,
-  decay: 0.91,
-  scalar: 0.8,
-});
-
-fire(0.1, {
-  spread: 120,
-  startVelocity: 25,
-  decay: 0.92,
-  scalar: 1.2,
-});
-
-fire(0.1, {
-  spread: 120,
-  startVelocity: 45,
-});
-          `}
+          // Google colors
+          const colors = ["#4285F4", "#0F9D58", "#F4B400", "#DB4437"];
+          
+          (function frame() {
+            confetti({
+              particleCount: 2,
+              angle: 60,
+              spread: 55,
+              origin: { x: 0 },
+              colors: colors,
+            });
+          
+            confetti({
+              particleCount: 2,
+              angle: 120,
+              spread: 55,
+              origin: { x: 1 },
+              colors: colors,
+            });
+          
+            if (Date.now() < end) {
+              requestAnimationFrame(frame);
+            }
+          })();
+          `
+        }
       </Script>
       <nav className='w-full  shadow-md relative '>
         <div className="bg-gray-900 text-blue-500 w-full m-auto text-center p-2 flex justify-center items-center">
