@@ -6,7 +6,7 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: "GDSC UVPCE GCCP Leaderboard",
+  title: "GDSC UVPCE",
   image: "https://raw.githubusercontent.com/fenilmodi00/GCCP-Jams/main/public/assets/Screenshot%202023-09-12%20191408.png",
   type: "website",
   description: "This is the leaderboard for the GDSC UVPCE GCCP Jams.",
