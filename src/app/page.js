@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Script src="https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.12.0/tsparticles.confetti.bundle.min.js" strategy="beforeInteractive"></Script>
-      <Script>
+      <Script id="blast_effect">
         {`
           const count = 200,
   defaults = {
