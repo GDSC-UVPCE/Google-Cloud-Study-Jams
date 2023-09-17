@@ -3,39 +3,12 @@ import Script from 'next/script';
 import Link from 'next/link'
 import TableIndex from "@/components/Table.Index";
 export default function Home() {
+  
   return (
     <>
       <Script src="https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.12.0/tsparticles.confetti.bundle.min.js" strategy="beforeInteractive"></Script>
       <Script id="blast_effect">
         {
-          // `const end = Date.now() + 15 * 150;
-
-          // // Google colors
-          // const colors = ["#4285F4", "#0F9D58", "#F4B400", "#DB4437"];
-          
-          // (function frame() {
-          //   confetti({
-          //     particleCount: 2,
-          //     angle: 60,
-          //     spread: 55,
-          //     origin: { x: 0 },
-          //     colors: colors,
-          //   });
-          
-          //   confetti({
-          //     particleCount: 2,
-          //     angle: 120,
-          //     spread: 55,
-          //     origin: { x: 1 },
-          //     colors: colors,
-          //   });
-          
-          //   if (Date.now() < end) {
-          //     requestAnimationFrame(frame);
-          //   }
-          // })();
-          // `
-
                 `const duration = 15 * 350,
                 animationEnd = Date.now() + duration,
                 defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
@@ -71,12 +44,7 @@ export default function Home() {
                   })
                 );
               }, 250);
-              
-              `
-
-
-
-
+                `
         }
       </Script>
       <nav className='w-full  shadow-md relative '>
@@ -120,7 +88,7 @@ export default function Home() {
 
       <TableIndex />
 
-      <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">Devloped By <a href="https://linktr.ee/codingarpan" className="text-orange-400">CodingArpan &  Fenil Modi</a> </div>
+      <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">Devloped By <a href="" className="text-orange-400">CodingArpan &  Fenil Modi</a> </div>
     </>
   )
 }
