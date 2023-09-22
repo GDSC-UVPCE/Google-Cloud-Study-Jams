@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import Script from 'next/script';
 import Link from 'next/link'
+// import BadgeComponent from '../components/BadgeComponent';
 import TableIndex from "@/components/Table.Index";
 export default function Home() {
   
@@ -85,6 +86,10 @@ export default function Home() {
           </div>
         </div>
       </nav>
+
+      {/* <div className="bg-gray-100 min-h-screen">
+      <BadgeComponent />
+    </div> */}
 
       <TableIndex />
 
