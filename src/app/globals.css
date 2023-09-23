@@ -1,6 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-*{
+
+* {
     user-select: none;
+}
+
+.uploadSec {
+    box-shadow: 0px 0px 21px 0px rgba(118, 159, 255, 0.3);
+}
+
+.completion {
+    animation-name: progressrate;
+    animation-delay: 0.5s;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes progressrate {
+    0% {
+        width: 0%;
+    }
+
+    100% {
+        width: 100%;
+    }
+
+    
+
 }
