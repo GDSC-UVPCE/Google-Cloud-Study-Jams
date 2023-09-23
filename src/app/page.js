@@ -75,6 +75,9 @@ export default function Home() {
           </div>
         </div>
       </nav>
+      <div className="m-auto w-fit mt-10">
+        <Link href="/profilebadge" className='px-3 py-2 bg-blue-500 text-white'>Create Badge</Link>
+      </div>
 
       <TableIndex />
 
