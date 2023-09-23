@@ -19,7 +19,7 @@ const DownloadBadge = ({ Imgdata, setImgdata, setProgress }) => {
                     <div className=" w-[300px] h-[300px] overflow-scroll">
                         <img src={Imgdata} alt="your Image" className='w-max h-max' />
                     </div>
-                    {!Adjustment && <Image
+                    {!Adjustment && <img
                         className='absolute top-0'
                         src="/assets/template.png"
                         width={300}
