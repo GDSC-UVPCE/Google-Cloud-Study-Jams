@@ -57,7 +57,7 @@ function Profilebadge() {
                         </defs>
                     </svg>
                 </div>}
-                {/* <div className=" bg-blue-500 text-white text-center w-full">Devloped By CodingArpan</div> */}
+                <div className=" bg-blue-500 text-white text-center w-full">Devloped By Arpan Das</div>
             </div>
         </div>
     )
