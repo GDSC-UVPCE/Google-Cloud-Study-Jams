@@ -1,9 +1,16 @@
 import React, { useState } from 'react'
+import { Roboto_Mono } from 'next/font/google'
+const roboto = Roboto_Mono({
+    weight: '700',
+    subsets: ['latin'],
+    display: 'swap',
+})
+
 import html2canvas from 'html2canvas'
 import Image from 'next/image'
 import Link from 'next/link';
 import Script from 'next/script';
-const DownloadBadge = ({ Imgdata, setImgdata, setProgress }) => {
+const DownloadBadge = ({ Imgdata, setImgdata, setProgress, Username, setUsername }) => {
     const [Adjustment, setAdjustment] = useState(false);
     const [Download, setDownload] = useState(false);
     const [ChangePhoto, setChangePhoto] = useState(false);
@@ -12,11 +19,12 @@ const DownloadBadge = ({ Imgdata, setImgdata, setProgress }) => {
 
     return (
         <div className='relative w-full'>
-            {Download && <div className="absolute z-10 w-full h-screen bg-gray-700 text-center pt-20 text-white text-3xl"> Downloading ...</div>}
+            {Download && <div className="absolute z-30 w-full h-screen bg-gray-700 text-center pt-20 text-white text-3xl"> Downloading ...</div>}
 
             <div className="photo w-fit relative m-auto mt-5">
-                <div className="">
-                    <div className=" w-[300px] h-[300px] overflow-scroll">
+                <div className="relative">
+                    {!Adjustment && <p className={`absolute ${roboto.className} text-2xl tracking-tight bottom-16 pl-5 z-20 w-full text-left text-[#4283F3]`}>{Username}</p>}
+                    <div className=" w-fit max-w-[300px] h-[300px] overflow-scroll">
                         <img src={Imgdata} alt="your Image" className='w-max h-max' />
                     </div>
                     {!Adjustment && <img

@@ -5,6 +5,7 @@ import Uploadpage from '@/components/Uploadpage';
 import DownloadBadge from '@/components/DownloadBadge';
 function Profilebadge() {
     const [Progress, setProgress] = useState(0);
+    const [Username, setUsername] = useState("");
     const [PhotoDetails, setPhotoDetails] = useState({
         name: '', size: ''
     });
@@ -28,6 +29,8 @@ function Profilebadge() {
                 setPhotoDetails={setPhotoDetails}
                 Imgdata={Imgdata}
                 setImgdata={setImgdata}
+                Username={Username}
+                setUsername={setUsername}
             />
             }
             {
@@ -35,6 +38,8 @@ function Profilebadge() {
                     Imgdata={Imgdata}
                     setImgdata={setImgdata}
                     setProgress={setProgress}
+                    Username={Username}
+                    setUsername={Username}
                 />
             }
 

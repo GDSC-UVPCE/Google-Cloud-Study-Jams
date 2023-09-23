@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Uploadpage({ Progress, setProgress, PhotoDetails, setPhotoDetails, Imgdata, setImgdata }) {
+function Uploadpage({ Progress, setProgress, PhotoDetails, setPhotoDetails, Imgdata, setImgdata, Username, setUsername }) {
 
     const animateprogressbar = () => {
         const start = setInterval(() => {
@@ -42,7 +42,13 @@ function Uploadpage({ Progress, setProgress, PhotoDetails, setPhotoDetails, Imgd
                     <p className='text-blue-400 text-5xl text-center'><span className="text-green-500 text-3xl">Profile</span> Badge</p>
                 </div>
 
-                <label id="btn" htmlFor='upload' className="uploadSec relative px-5  mt-8 m-auto w-full max-w-3xl 
+                <input onChange={(e) => {
+                    console.log(e.target.value);
+                    setUsername(e.target.value);
+                }}
+                    className='relative block m-auto w-full max-w-md px-4 py-2 bg-blue-50 placeholder:text-blue-300 outline-none rounded-full' type="text" name="user" id="user" placeholder='Enter Your Name' />
+                {(Username == '') && <p className="text-red-400 block m-auto w-full max-w-md  text-xs p-2">Please Enter Your Name</p>}
+                <label id="btn" htmlFor='upload' className="uploadSec relative px-5  mt-8 m-auto w-full max-w-2xl 
                 flex flex-col items-center bg-violet-50/50 border-2 border-blue-500/20 space-y-8 pt-10 pb-16 rounded-lg
                  ">
                     <div className="photoIcon flex justify-center items-center">
@@ -97,7 +103,11 @@ function Uploadpage({ Progress, setProgress, PhotoDetails, setPhotoDetails, Imgd
             <input
                 onChange={(e) => {
                     console.log("first");
-                    getPhotoDetails(e)
+                    if (Username != '') {
+                        getPhotoDetails(e);
+                    }else{
+                        alert("Please Enter Your Name");
+                    }
                 }}
                 className='hidden' type="file" name="upload" id="upload" accept=".png, .jpg, .jpeg" />
 
