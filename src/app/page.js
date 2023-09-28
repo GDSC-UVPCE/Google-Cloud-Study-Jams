@@ -91,7 +91,7 @@ export default function Home() {
       </div>
 
       {/* <div className="bg-gray-100 min-h-screen">
-      <BadgeComponent />
+      <BadgeComponent    />
     </div> */}
 
       <TableIndex />
