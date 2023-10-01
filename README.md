@@ -8,13 +8,13 @@ To start developing or running this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-    git clone https://github.com/GDSC-UVPCE/GCCP-Jams
+    git clone https://github.com/GDSC-UVPCE/Google-Cloud-Study-Jams.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd GCCP-Jams
+   cd Google-Cloud-Study-Jams
    ```
 
 3. Initialize npm:
