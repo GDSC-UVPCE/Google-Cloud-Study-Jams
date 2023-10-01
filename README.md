@@ -47,15 +47,22 @@ That's it! Your project should now use the updated data.
 
 ### how to convert CSV data to JSON 
    1. Download file in CSV format
+
+      
        ![image](https://github.com/fenilmodi00/Google-Cloud-Study-Jams/assets/85280060/74856652-2f81-4bd1-921f-9ccbfd7ad10a)
    2. upload file CSV to this website
+
        [https://csvjson.com/csv2json]
       ![image](https://github.com/fenilmodi00/Google-Cloud-Study-Jams/assets/85280060/4ae6b46a-6d6d-48e0-8c52-27d9c6b2a21f)
    3. Convert data
+
+      
       ![image](https://github.com/fenilmodi00/Google-Cloud-Study-Jams/assets/85280060/a62d1cdd-c9ea-435f-9ca9-10effa05087f)
-   4. Copy all converted JSON data
+   7. Copy all converted JSON data
+    
+
       ![image](https://github.com/fenilmodi00/Google-Cloud-Study-Jams/assets/85280060/e7cbf853-ab15-412d-8877-37abd3f7a89c)
-   5. paste JSON data into public/data.json file
+   9. paste JSON data into public/data.json file
       
 
 
