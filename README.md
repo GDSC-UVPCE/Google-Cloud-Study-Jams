@@ -1,5 +1,5 @@
 
-# Google Cloud Study Jams Leaderboard
+# Google Cloud Study Jams Leaderboard <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20231.svg">
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ To start developing or running this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/GDSC-UVPCE/GCCP-Jams
+    git clone https://github.com/GDSC-UVPCE/GCCP-Jams
    ```
 
 2. Navigate to the project directory:
@@ -43,4 +43,4 @@ To update the data used by your project, follow these steps:
 
 3. Save the changes to `data.json`.
 
-That's it! Your project should now use the updated data.
+That's it! Your project should now use the updated data. <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg">
