@@ -1,6 +1,3 @@
----
-title: Goole Cloud study jams Leaderboard 
----
 
 # Google cloud study jams leaderboard 
 
@@ -13,12 +10,16 @@ To start developing or running this project locally, follow these steps:
 ```bash
 git clone https://github.com/GDSC-UVPCE/GCCP-Jams
 ```
+2. navigate to project
 ```bash
 cd GCCP-Jams
 ```
+3. insilize npm
 ```bash
 npm install
 ```
+3. start poject localy
+4. 
 ```bash
 npm run dev
 ```
