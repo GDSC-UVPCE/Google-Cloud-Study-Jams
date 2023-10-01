@@ -65,6 +65,12 @@ That's it! Your project should now use the updated data.
    9. paste JSON data into public/data.json file
       
 
+## Contributors
 
-      
-   
+Contributions are welcome! 
+    <div>
+      <a href="https://github.com/GDSC-UVPCE/Google-Cloud-Study-Jams/graphs/contributors">
+        <br>
+        <img src="https://contrib.rocks/image?repo=GDSC-UVPCE/Google-Cloud-Study-Jams" />
+      </a>
+    </div>
